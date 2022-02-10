@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jccorp.jccorp)
+Software development with JEE(Java, JSF, JSP, Servlets, EJB, Portlets, JAX-WS,
+JAX-RS), Spring, Microservices, AWS(Lambda, SQS, DynamoDB, Kinesis), Terraform, .NET core, C#, JavaScript, Web development, WebSphere Application Server v7,Linux, GIT.
 <!--
 **jccorp/jccorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
