@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jccorp.jccorp)
-![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linked In&logoColor=white)
+![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 Software development with JEE(Java, JSF, JSP, Servlets, EJB, Portlets, JAX-WS,
 JAX-RS), Spring, Microservices, AWS(Lambda, SQS, DynamoDB, Kinesis), Terraform, .NET core, C#, JavaScript, Web development, WebSphere Application Server v7,Linux, GIT.
