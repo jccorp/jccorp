@@ -11,7 +11,7 @@ JAX-RS), Spring, Microservices, AWS(Lambda, SQS, DynamoDB, Kinesis), Terraform, 
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working at PayByPhone(Zartis Contractor)
+- 🔭 I’m currently working at CubicTelecom(Zartis Contractor)
 - 🌱 I’m currently learning web3
 - 💬 Ask me about Java, Spring, AWS, Microservices
 - 📫 How to reach me: https://twitter.com/fjccorp
